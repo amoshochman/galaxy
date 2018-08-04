@@ -28,6 +28,8 @@ Realizar un programa informático para poder predecir en los próximos 10 años:
 2. ¿Cuántos períodos de lluvia habrá y qué día será el pico máximo de lluvia?
 3. ¿Cuántos períodos de condiciones óptimas de presión y temperatura habrá?
 
+---------------------------------------------------------------------------------------------------
+
 Observaciones, asunciones:
 
 1. Para mayor simplicidad y por oposición a lo que sucede en el mundo real, asumimos que el movimiento de los planetas es discreto.
