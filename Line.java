@@ -1,8 +1,8 @@
 package galaxy;
 
 public class Line {
-	double slope;
-	double yIntersection;
+	protected double slope;
+	protected double yIntersection;
 	public Line(Point a, Point b) {
 		slope=(b.y-a.y)/(b.x-a.x);
 		yIntersection=a.y-(slope*a.x);
